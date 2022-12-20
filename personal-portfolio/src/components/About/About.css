@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-between;
+    background-color: aliceblue;
+
+}
+
+.summary {
+    border: 5px solid #6495ED ;
+    background-color: #55f693;
+
+}
+
+.background {
+    border: 5px solid #6495ED ;
+    background-color: #55f693;
+
+}
+
+.hobbyContainer{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+
+    margin: 7px;
+ /* margin-left: 230px;
+ padding: 0px; */
+}

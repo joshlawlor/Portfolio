@@ -1,0 +1,41 @@
+.body {
+    height: 100%;
+
+}
+
+
+.homeContainer {
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-around;
+    /* background-color: rgb(222, 182, 182); */
+    background-image: url('../../assets/images/background.jpg') ;
+    background-repeat: space;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+.accordion {
+    background-color: rgb(250, 247, 247);}
+
+.pr {
+    background-color: #55f693;
+
+    margin: 7px;
+
+}
