@@ -16,7 +16,7 @@ import Carousel from 'react-bootstrap/Carousel'
 import OffCanvas from 'react-bootstrap/Offcanvas'
 import Card from 'react-bootstrap/Card'
 
-import profile from './assets/images/profile.png'
+import profile from './assets/images/profile.jpg'
 
 
 import Portfolio from './pages/PortfolioPage/PortfolioPage'
