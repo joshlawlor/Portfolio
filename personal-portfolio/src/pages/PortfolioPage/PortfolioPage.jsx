@@ -7,7 +7,7 @@ import Card from 'react-bootstrap/Card'
 
 
 
-import profile from '../../assets/images/profile.png'
+import profile from '../../assets/images/profile.jpg'
 
 import bugbuddy from '../../assets/images/BugBuddy.png'
 import bugbuddy2 from '../../assets/images/bugbuddy2.png'
